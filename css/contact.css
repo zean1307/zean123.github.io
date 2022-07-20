@@ -1,0 +1,7 @@
+body
+{
+	padding: 100px;
+	background-image: linear-gradient(-20deg,#ff2846 0%, #6944ff 100%);
+	text-align: center;
+	font-family: 'Quicksand' sans-serif;
+}
